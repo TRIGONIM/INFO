@@ -1,3 +1,5 @@
+> Основные правила [тут](https://github.com/TRIGONIM/INFO/blob/master/rules/DarkHL2RP.md)
+
 # Содержание:
 * [Гражданская Оборона](#CP)
 * [Подразделение ОТА](#OTA)
